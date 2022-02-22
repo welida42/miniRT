@@ -1,10 +1,11 @@
 # miniRT
 A raytracing engine written in C and MiniLibX.
 
-
 # How to install
+  
+  
+Clone the repo:  
 
-Clone the repo:
 git@github.com:welida42/minirt.git --recursive
 cd into it and make to compile it:
 cd minirt && make
