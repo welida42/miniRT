@@ -5,7 +5,7 @@ A raytracing engine written in C and MiniLibX.
    
 Clone the repo:  
 
-git@github.com:welida42/minirt.git --recursive 
+https://github.com/welida42/miniRT.git
 
 cd into it and make to compile it:    
 
